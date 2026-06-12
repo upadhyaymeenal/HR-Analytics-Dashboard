@@ -37,5 +37,3 @@ To transform raw HR data into meaningful insights that help in better decision-m
 
 ---
 
-## 👩‍💻 Author
-Meenal Upadhyay
